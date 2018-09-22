@@ -1,8 +1,0 @@
-minApprovals:
-  COLLABORATOR: 1
-maxRequestedChanges:
-  NONE: 0
-updateBranch: true
-deleteBranchAfterMerge: true
-blockingLabels:
-  - blocked
